@@ -2,6 +2,7 @@ import './bootstrap';  // Include Laravel's bootstrap
 import { createApp } from 'vue';  // Vue 3 createApp function
 import { createRouter, createWebHistory } from 'vue-router'; // Vue Router
 
+
 // Import components
 import Navbar from './components/Navbar.vue';  // Import Navbar component
 import Footer from './components/Footer.vue';  // Import Footer component
